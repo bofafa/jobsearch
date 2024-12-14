@@ -1,0 +1,1954 @@
+{
+  "data": {
+    "viewer": {
+      "id": 54185926,
+      "appliedJobs": {
+        "edges": [
+          {
+            "node": {
+              "id": "79803813",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-29T03:08:03.044Z",
+                    "shortAbsoluteLabel": "29 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-29T03:08:03.044Z",
+                "shortAbsoluteLabel": "29 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79803813",
+                "title": "Python/ Java/ Analyst/ Programmer(20K-50K)(FG Welcome)",
+                "location": {
+                  "label": "Sha Tin District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\n System design, development, testing, implement   Assist to develop and maintain system development and web applications",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-28T06:35:06.194Z",
+                  "label": "20h ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "62082708",
+                  "name": "Innovation Fintech Co., Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/a65fabb69a52d3162911387742c1482b09dfcb50/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79820782",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-29T03:06:16.333Z",
+                    "shortAbsoluteLabel": "29 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-29T03:06:16.333Z",
+                "shortAbsoluteLabel": "29 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79820782",
+                "title": "Programmer / Junior Programmer",
+                "location": {
+                  "label": "Sheung Wan, Central and Western District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Develop web client and server application",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-29T01:15:58.587Z",
+                  "label": "2h ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61273659",
+                  "name": "Kanhan Technologies Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/10883d3216c6bded72a37b34fa7cef0fc9b558dd/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79679454",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T03:11:06.231Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T03:11:06.231Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79679454",
+                "title": "Application Developer (Back-end Software)",
+                "location": {
+                  "label": "Wan Chai, Wan Chai District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Benefits:\nMedical Coverage \nDental \nLife Insurance \nStaff Discounts\nORSO / MPF schemes\nBirthday Leave\nExamination Leaves\nEducation Allowance \nBonus ",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-22T09:19:48.719Z",
+                  "label": "6d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60190364",
+                  "name": "HKT",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/69917878d522cd5346b2b90d7f2bf0a37be15fc0/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79705435",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T03:07:56.929Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T03:07:56.929Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79705435",
+                "title": "Programmer (Fresh Graduates Welcome to Apply)",
+                "location": {
+                  "label": "Hong Kong SAR",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Our client is an award-winning MNC and a revolutionary market leader that is seeking for a high calibre individual to join their team.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-23T08:10:11.217Z",
+                  "label": "5d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61364399",
+                  "name": "JFE Consulting Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/67605fa3ed63037f208620cd105d0e4372a56639/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79681367",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T03:06:52.953Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T03:06:52.953Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79681367",
+                "title": "Software Trainee",
+                "location": {
+                  "label": "Hung Hom, Kowloon City District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\r\nOur Software Trainee Programme enables you to use what you’ve learned, expand your knowledge and benefit from invaluable on-the-job experience....",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-22T10:33:05.665Z",
+                  "label": "6d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61312183",
+                  "name": "ESD Services Limited (ESDlife)",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/a7b47c6cd05c9c9fe92fb9557297343ad3baf64a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79699097",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T03:04:59.868Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T03:04:59.868Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79699097",
+                "title": "Analyst Programmer Trainee (Web Business Solution)",
+                "location": {
+                  "label": "Ngau Tau Kok, Kwun Tong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Fresh graduates welcome! We provide hands-on training\nFast-paced, innovative\nShape the future of our solution and contribute to our clients’ success.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-23T04:45:12.092Z",
+                  "label": "5d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61304829",
+                  "name": "TOGO Pacific Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/b29cd1cf00a54cced84b40794270a60e9573e16a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79757064",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T03:03:02.680Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T03:03:02.680Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79757064",
+                "title": "Analyst Programmer",
+                "location": {
+                  "label": "Lai Chi Kok, Sham Shui Po District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "We are expanding our team and looking for a number of passionate and talented IT-related professionals to join us and support our continuously...",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-25T08:24:27.236Z",
+                  "label": "3d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61358295",
+                  "name": "Pastel Tech Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/d83269bb655a4be39f48b037a204d61188df4f82/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": false,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79760797",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T03:01:26.073Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T03:01:26.073Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79760797",
+                "title": "Application Developer (Javascript)",
+                "location": {
+                  "label": "Tsim Sha Tsui, Yau Tsim Mong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Join our top IT team at a leading global container shipping company. Make an impact, shape the future. Passionate developers wanted!",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-25T10:57:02.584Z",
+                  "label": "3d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61380827",
+                  "name": "Ocean Network Express (East Asia) Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": { "branding": null, "__typename": "JobProducts" },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79755198",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T02:48:07.711Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T06:18:02.630Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T02:48:07.711Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79755198",
+                "title": "Software Developer",
+                "location": {
+                  "label": "Tsuen Wan District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Work with a team of professionals to design and develop various web-based applications",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-25T07:00:59.401Z",
+                  "label": "3d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61304459",
+                  "name": "Sportshouse Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/837bf910858398bf1ad1c37e41c9adc6e14d1b53/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": false,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "78526747",
+              "hasAppliedWithResume": false,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": true,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-28T02:23:20.897Z",
+                    "shortAbsoluteLabel": "28 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-28T02:23:20.897Z",
+                "shortAbsoluteLabel": "28 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "78526747",
+                "title": "Assistant Digital Engineer, Back End",
+                "location": {
+                  "label": "Hong Kong SAR",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\r\nResponsibilities:\r\nConduct R&amp;D in Construction Digitalization related areas, and define requirements, specifications, and innovative design...",
+                "createdAt": {
+                  "dateTimeUtc": "2024-09-02T03:09:49.844Z",
+                  "label": "30d+ ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61282529",
+                  "name": "Hip Hing Construction Co Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/df2d4a722889353a9d1ab0d585dec0bee22183fd/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": false,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79734131",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-25T04:52:18.373Z",
+                    "shortAbsoluteLabel": "25 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-25T04:52:18.373Z",
+                "shortAbsoluteLabel": "25 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79734131",
+                "title": "Software Engineer / Web Developer",
+                "location": {
+                  "label": "Sha Tin District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Involvement in large-scale project development. Opportunities for continuous learning & development. Benefits: 10 days annual leave, 5-days work week.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-24T10:42:49.130Z",
+                  "label": "4d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61789192",
+                  "name": "Mark Technology Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": {
+                  "label": "$20,000 – $28,000 per month",
+                  "currencyLabel": null,
+                  "__typename": "JobSalary"
+                },
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/3fa15631aee7c715dc0d9e0cca1f48b05d45ecd4/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79632444",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T03:12:37.249Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T06:11:32.608Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T03:12:37.249Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79632444",
+                "title": "*Urgent* Java Programmer - 6 Openings (Junior to Senior) (30K-50K)",
+                "location": {
+                  "label": "Sheung Wan, Central and Western District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Perform system design, development, testing, implementation, enhancement and maintenance",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-21T03:43:33.668Z",
+                  "label": "7d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60253223",
+                  "name": "Speedy Group Corp. Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/30ac238f7a98f457d024f16af85206fc42853e40/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": false,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79493734",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T03:03:38.932Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T03:03:38.932Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79493734",
+                "title": "Programmer (Fresh Graduates Welcome to Apply)",
+                "location": {
+                  "label": "Hong Kong SAR",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Our client is an award-winning MNC and a revolutionary market leader that is seeking for a high calibre individual to join their team.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-14T10:39:19.755Z",
+                  "label": "14d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61364399",
+                  "name": "JFE Consulting Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/67605fa3ed63037f208620cd105d0e4372a56639/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79293358",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T02:56:57.057Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T02:56:57.057Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79293358",
+                "title": "Junior Engineer / Trainee - Software Development / Back-end / MNC Fintech...",
+                "location": {
+                  "label": "Hong Kong Island",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "We are hiring a Junior Software Engineer to join our HK team.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-04T06:24:45.500Z",
+                  "label": "24d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60468420",
+                  "name": "Golden Siv Technology Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/29d0f6518c9c1ae561b4a1dc3794372f7c7f5d2e/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79392357",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T02:55:56.920Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-24T06:30:40.111Z",
+                    "shortAbsoluteLabel": "24 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T02:55:56.920Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79392357",
+                "title": "Analyst Programmer Software Engineer 開發 / Junior programmer Test Engineer  QA 測試",
+                "location": {
+                  "label": "Kwun Tong, Kwun Tong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "The company has developed a comprehensive training program for junior programmers.\nGood spoken and writing skill in  Cantonese.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-09T06:25:59.649Z",
+                  "label": "19d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61340086",
+                  "name": "Smart Calculator Hong Kong Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": {
+                  "label": "$25,000 – $35,000 per month",
+                  "currencyLabel": null,
+                  "__typename": "JobSalary"
+                },
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/aa5e9b4566597ac78a6b6b480b3d5875ae231207/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79350919",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T02:54:29.974Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T02:54:29.974Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79350919",
+                "title": "IT Specialist, JAVA (Programmer/ Developer)",
+                "location": {
+                  "label": "Tsim Sha Tsui, Yau Tsim Mong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\r\nResponsibilities:\r\n\r\n Design and implement Java applications using different frameworks;\r\n Responsible for development, maintenance of enterprise...",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-08T01:42:55.562Z",
+                  "label": "21d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61289899",
+                  "name": "iFAST Financial (HK) Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/eef337e453763c4fb9ba4af8e55189fbb53ee409/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79423331",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T02:51:39.749Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T02:51:39.749Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79423331",
+                "title": "Software Developer-Fintech (5-days work; Fresh graduates are welcome)",
+                "location": {
+                  "label": "Tsim Sha Tsui, Yau Tsim Mong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\r\nResponsibilities:\r\n\r\n Develop, and maintain the next generation low latency financial systems\r\n Develop/extend our systems to support new...",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-10T07:39:47.632Z",
+                  "label": "18d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61276730",
+                  "name": "Ebroker Systems Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/e095eae16d7ab65f7e0031d2c35548ae832873d9/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "77884325",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T02:38:52.313Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-27T12:50:00.111Z",
+                    "shortAbsoluteLabel": "27 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-23T02:38:52.313Z",
+                "shortAbsoluteLabel": "23 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "77884325",
+                "title": "Consulting – Digital Engineering – Software Engineer (Java / Node.js, Backend)",
+                "location": {
+                  "label": "Kwun Tong, Kwun Tong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Responsible for design, develop & implement web-based/API-based applications with Java or Node.js.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-08-06T02:14:08.726Z",
+                  "label": "30d+ ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61277603",
+                  "name": "EY Mtel Solutions Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/3204d05fc941e4cc536d01970011c3973d166fac/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": false,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79640228",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-22T07:41:39.740Z",
+                    "shortAbsoluteLabel": "22 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-22T07:41:39.740Z",
+                "shortAbsoluteLabel": "22 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79640228",
+                "title": "System Analyst / Programmer ( Java Developer ) l Junior to Senior ( FG Welcome )",
+                "location": {
+                  "label": "Tsim Sha Tsui, Yau Tsim Mong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Develop and implement efficient Backend solutions using Java and Spring Boot.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-21T07:38:51.012Z",
+                  "label": "7d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60292518",
+                  "name": "Osmium Consulting Group Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/6c8a3c69ed4042eb4274033d23db50d7ef7828f7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79659365",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": true,
+              "isExternal": false,
+              "isActive": false,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-22T07:36:22.046Z",
+                    "shortAbsoluteLabel": "22 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T03:40:02.740Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-22T07:36:22.046Z",
+                "shortAbsoluteLabel": "22 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79659365",
+                "title": "Java Analyst Programmer / Senior Analyst Programmer",
+                "location": {
+                  "label": "Hong Kong SAR",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Experience in:\nJava, Spring Boot, React.js or;\nDevOps, CI/CD ",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-22T03:32:05.510Z",
+                  "label": "6d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60257787",
+                  "name": "Automated Systems (HK) Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/cfcf6bea5a9120a82681269d70acb3f424240513/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79516540",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T03:10:29.028Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-22T02:35:58.218Z",
+                    "shortAbsoluteLabel": "22 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "NotSuitable",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-24T03:36:12.484Z",
+                    "shortAbsoluteLabel": "24 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T03:10:29.028Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79516540",
+                "title": "Java Analyst Programmer / Junior Programmer",
+                "location": {
+                  "label": "North Point, Eastern District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "This role will responsible to handle design, develop and test ePayment and related application systems and digital solutions\n",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-15T07:46:57.826Z",
+                  "label": "13d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61298423",
+                  "name": "AsiaPay (HK) Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": {
+                  "label": "$22,000 – $30,000 per month",
+                  "currencyLabel": null,
+                  "__typename": "JobSalary"
+                },
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/6421af6247e46756ac7e0f6a900a8b24fedc3d81/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79559918",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T03:06:31.882Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T03:06:31.882Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79559918",
+                "title": "Software Engineer / Web Developer",
+                "location": {
+                  "label": "Kwun Tong, Kwun Tong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\r\nRole and Key Responsibilities:\r\n\r\n Develop, test, and maintain web or mobile applications with React / React Native\r\n Work closely with the team...",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-17T00:15:08.899Z",
+                  "label": "12d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61367148",
+                  "name": "AppicIDEA IT Solutions Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/7d4d6c32ef6992d4ac93ac7311ea3453aefda941/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79540092",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T03:04:02.353Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T03:04:02.353Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79540092",
+                "title": "Application Programmer (5 days work)",
+                "location": {
+                  "label": "Ngau Tau Kok, Kwun Tong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\nKey Responsibilities\n\n Responsible for software development and maintenance / support",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-16T04:48:08.832Z",
+                  "label": "12d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61304959",
+                  "name": "Novation Solutions Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/24a732d81ef5f727182a2960302b287e9661b833/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79535790",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": false,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T02:57:34.262Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T02:57:34.262Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79535790",
+                "title": "Programmer / Junior Programmer",
+                "location": {
+                  "label": "Sheung Wan, Central and Western District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Develop web client and server application",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-16T03:09:27.881Z",
+                  "label": "13d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61273659",
+                  "name": "Kanhan Technologies Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/10883d3216c6bded72a37b34fa7cef0fc9b558dd/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79488747",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T02:56:58.457Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-24T09:44:17.691Z",
+                    "shortAbsoluteLabel": "24 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "NotSuitable",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-26T10:35:57.451Z",
+                    "shortAbsoluteLabel": "26 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T02:56:58.457Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79488747",
+                "title": "Senior/Junior Application Developer and Support",
+                "location": {
+                  "label": "Causeway Bay, Wan Chai District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Knowledge in Python and JAVA to support our AI technologies, API system interfaces (XML/JSON) and mobile apps for Fintech projects.  ",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-14T07:20:20.929Z",
+                  "label": "14d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "62717535",
+                  "name": "Megaannum Technology Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": {
+                  "label": "$20,000 – $30,000 per month",
+                  "currencyLabel": null,
+                  "__typename": "JobSalary"
+                },
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/555fb34c533b8d194bd33ae7e23239d5c4d148c5/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79576131",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T02:55:26.159Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T02:55:26.159Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79576131",
+                "title": "Software Developer (C#, .net, 25k), welcome freshgrad",
+                "location": {
+                  "label": "Central and Western District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "My client is looking for a software developer/business analyst under solution team for ERP implementation project.",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-17T08:43:35.027Z",
+                  "label": "11d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61353148",
+                  "name": "Robert Walters (HK) Ltd",
+                  "__typename": "Advertiser"
+                },
+                "salary": {
+                  "label": "$18k - $25k p.m.",
+                  "currencyLabel": null,
+                  "__typename": "JobSalary"
+                },
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/8ba284c9cc6225915778d1e090e7fee21313d10c/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": false,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79604931",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T02:09:04.748Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T02:09:04.748Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79604931",
+                "title": "Junior Programmer (Java, fresh grad is welcomed, over$18K)",
+                "location": {
+                  "label": "Cheung Sha Wan, Sham Shui Po District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "Java Developer",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-18T09:19:14.051Z",
+                  "label": "10d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60186340",
+                  "name": "CL Technical Services Ltd.",
+                  "__typename": "Advertiser"
+                },
+                "salary": {
+                  "label": "$18,000 – $19,000 per month",
+                  "currencyLabel": null,
+                  "__typename": "JobSalary"
+                },
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/b8d3c0de300660674b1a3781b15758f05f051230/f3c5292cec0e05e4272d9bf9146f390d366481d0",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79620887",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T02:07:15.413Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "Viewed",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T10:27:25.250Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                },
+                {
+                  "status": "NotSuitable",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-23T10:34:47.658Z",
+                    "shortAbsoluteLabel": "23 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T02:07:15.413Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79620887",
+                "title": "Programmer / Senior Programmer up to 30k (FG welcome)",
+                "location": {
+                  "label": "Hong Kong SAR",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "\r\nExciting opportunities for IT professionals and FGs with passion to identify their career path \r\n\r\nResponsibilities\r\n\r\n\r\n End-to-end system...",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-20T05:04:01.579Z",
+                  "label": "8d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "61369188",
+                  "name": "Pathsight Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/7a746ff9183aea66735e32682a31ea2253932057/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          },
+          {
+            "node": {
+              "id": "79627890",
+              "hasAppliedWithResume": true,
+              "hasAppliedWithCoverLetter": false,
+              "isExternal": false,
+              "isActive": true,
+              "notes": null,
+              "events": [
+                {
+                  "status": "Applied",
+                  "timestamp": {
+                    "dateTimeUtc": "2024-10-21T02:02:31.695Z",
+                    "shortAbsoluteLabel": "21 Oct 2024",
+                    "__typename": "SeekDateTime"
+                  },
+                  "__typename": "AppliedJobEvent"
+                }
+              ],
+              "appliedAt": {
+                "dateTimeUtc": "2024-10-21T02:02:31.695Z",
+                "shortAbsoluteLabel": "21 Oct 2024",
+                "__typename": "SeekDateTime"
+              },
+              "job": {
+                "id": "79627890",
+                "title": "Analyst Programmer (Java)",
+                "location": {
+                  "label": "Kwun Tong District",
+                  "__typename": "LocationInfo"
+                },
+                "abstract": "•\tJava Web Application project development & support\n•\tJoin technical team for project implementation\n•\tHKSAR Government projects / SCM Projects\n\n\n",
+                "createdAt": {
+                  "dateTimeUtc": "2024-10-21T01:30:07.470Z",
+                  "label": "8d ago",
+                  "__typename": "SeekDateTime"
+                },
+                "advertiser": {
+                  "id": "60303435",
+                  "name": "NewTrek Systems Limited",
+                  "__typename": "Advertiser"
+                },
+                "salary": null,
+                "products": {
+                  "branding": {
+                    "logo": {
+                      "url": "https://image-service-cdn.seek.com.au/c610d2baf2d302d1589d2dc1e7b5c421a7826d90/ee4dce1061f3f616224767ad58cb2fc751b8d2dc",
+                      "__typename": "JobProductBrandingImage"
+                    },
+                    "__typename": "JobProductBranding"
+                  },
+                  "__typename": "JobProducts"
+                },
+                "tracking": {
+                  "hasRoleRequirements": true,
+                  "__typename": "JobTracking"
+                },
+                "__typename": "Job"
+              },
+              "__typename": "AppliedJob"
+            },
+            "__typename": "AppliedJobEdge"
+          }
+        ],
+        "__typename": "AppliedJobConnection"
+      },
+      "__typename": "Candidate"
+    }
+  }
+}

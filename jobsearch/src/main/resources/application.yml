@@ -1,6 +1,6 @@
 # pre-defined variables
 server:
-  port: 8081
+  port: 8090
 
 # pre-defined variables
 spring:
@@ -11,7 +11,7 @@ spring:
     password: "admin1234"
   jpa:
     show-sql: true
-    hibernate.ddl-auto: create
+    hibernate.ddl-auto: update
 
 # Custom variables
 api:
@@ -19,4 +19,4 @@ api:
     domain:  "hk.jobsdb.com" 
     endpoints:
       pathA: "/graphql" 
-
+    token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5KVzJ0X1ZVRHZLcG1FWk1EWHprWiJ9.eyJodHRwOi8vc2Vlay9jbGFpbXMvY291bnRyeSI6IkhLIiwiaHR0cDovL3NlZWsvY2xhaW1zL2JyYW5kIjoiam9ic2RiIiwiaHR0cDovL3NlZWsvY2xhaW1zL2V4cGVyaWVuY2UiOiJjYW5kaWRhdGUiLCJodHRwOi8vc2Vlay9jbGFpbXMvdXNlcl9pZCI6IjU0MTg1OTI2IiwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5zZWVrLmNvbS8iLCJzdWIiOiJhdXRoMHw5MTc0MjVlOGI1OGI0YTFjOWZhZmVmODBiN2RlZDk4NiIsImF1ZCI6WyJodHRwczovL3NlZWsvYXBpL2NhbmRpZGF0ZSIsImh0dHBzOi8vc2Vla2Fuei5vbmxpbmVhdXRoLnByb2Qub3V0ZnJhLnh5ei91c2VyaW5mbyJdLCJpYXQiOjE3MzQxNjI0MTgsImV4cCI6MTczNDE2NjAxOCwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBvZmZsaW5lX2FjY2VzcyIsImF6cCI6InM0eEtoa2FRbFNjczY1NkR1SGN2RUpuYkRVM1c1TWtuIn0.V0xmlyBrmrj-yufg11EdCNTzGwtFHQ3Ghr89k7tcZ-PfBuBkvYkTAYuc11EbSeKfb-6HgzKdh38FHwp-Gnx3XLm-KYgWqfI27v-2RBvFw8QxzdtJXprl5rf--vfMyCP8ZOWSysk_btLBioBpOwitIKKRCgms5Vuj4R8q7_TKSvjxRImTKMh1q2xUQS5NdESRV1w5OO3arDE3nNx18eJpeFrmAwCKEjt_BhKfrFP3gn-y0C2Gx9XyoX4Rs4PBsJ_E4u05Qp-rL4zMKCGulvTI4hpsJb81XNKAZW1LwHoF6YoR84EOfQKQJwUbnad4IrKVJ6QTSP_mGOues3fS5Eq-yg
